@@ -5,7 +5,7 @@ Here's a well-organized version of your project documentation. This structure is
 # Walmart_SQL_Python
 
 ## Project Overview
-This project provides an end-to-end data analysis solution to extract critical business insights from Walmart sales data. Using Python for data processing, SQL for advanced querying, and structured problem-solving, this project is ideal for data analysts looking to develop skills in data manipulation, SQL querying, and data pipeline creation.
+This project provides an end-to-end data analysis solution to extract critical business insights from Walmart sales data. Using Python for data processing, SQL for advanced querying, and structured problem-solving, , SQL querying, and data pipeline creation also data modeling.
 
 ## Project Pipeline
 
